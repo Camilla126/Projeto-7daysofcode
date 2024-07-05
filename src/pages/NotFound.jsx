@@ -1,4 +1,4 @@
-import { App } from "../layouts/App";
+import { App } from "../layout/App";
 
 export const NotFound = () => (
   <App>
