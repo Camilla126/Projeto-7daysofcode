@@ -5,3 +5,4 @@ export const App = ({ children }) => <>{children}</>;
 App.propTypes = {
   children: PropTypes.node,
 };
+
